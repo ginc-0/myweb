@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3486"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="hotel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3488"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.88746735"
+     inkscape:cx="216.34599"
+     inkscape:cy="349.87203"
+     inkscape:window-width="1206"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-105.53909,316.37866"
+       orientation="0.70710678,-0.70710678"
+       id="guide4148"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104.57133,254.91666"
+       orientation="0,-1"
+       id="guide4150"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="104.38616,107.09741"
+       orientation="0,-1"
+       id="guide4152"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="16.830542,248.38452"
+       orientation="1,0"
+       id="guide4154"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="187.52567,271.06243"
+       orientation="1,0"
+       id="guide4156"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3483">
+    <linearGradient
+       id="linearGradient4658"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4656" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4652"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4650" />
+    </linearGradient>
+    <rect
+       x="555.42537"
+       y="453.96036"
+       width="212.51222"
+       height="90.694358"
+       id="rect4038" />
+    <rect
+       x="128.00207"
+       y="501.45771"
+       width="478.82484"
+       height="78.066253"
+       id="rect3813" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4658"
+       id="linearGradient4660"
+       x1="-72.080645"
+       y1="76.991112"
+       x2="-8.4769955"
+       y2="76.991112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.6575944,0,0,1.9310667,-17.651419,-87.010087)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3811"
+       style="white-space:pre;shape-inside:url(#rect3813);display:inline;fill:#000000" />
+    <g
+       id="g4768"
+       transform="translate(-0.03959579,0.64401394)">
+      <g
+         id="g4739">
+        <g
+           id="g4711"
+           transform="translate(4.2623707,5.2429489)">
+          <g
+             id="g4685">
+            <g
+               id="g4146"
+               transform="translate(27.580799,3.3900987)">
+              <g
+                 id="g4082"
+                 transform="matrix(0.8788863,-0.85859166,1.2599897,0.59889732,-76.443301,89.003448)">
+                <ellipse
+                   style="fill:#000000;stroke-width:0.262574"
+                   id="path3751"
+                   cx="86.203835"
+                   cy="79.533226"
+                   rx="9.2904539"
+                   ry="4.6239738" />
+                <rect
+                   style="fill:#000000;stroke-width:0.264583"
+                   id="rect3753"
+                   width="50.120125"
+                   height="4.2705226"
+                   x="29.305548"
+                   y="77.565834" />
+              </g>
+              <g
+                 id="g4078"
+                 transform="matrix(1.2859095,-0.14964167,0.17397619,1.1060458,-29.511322,-16.695595)">
+                <g
+                   id="g4132"
+                   transform="translate(1.4638798,0.18051024)">
+                  <g
+                     id="g4136"
+                     transform="rotate(-123.96222,65.441364,96.129002)">
+                    <rect
+                       style="fill:#000000;stroke-width:0.241577"
+                       id="rect3755"
+                       width="41.782883"
+                       height="4.2705226"
+                       x="29.870369"
+                       y="90.907288" />
+                    <path
+                       style="fill:#000000;stroke-width:0.264583"
+                       d="m 71.385392,92.81021 v -2.820617 l 29.626968,0.464666 -0.83617,-0.562491 0.77561,0.937488 -1.175056,-2.01007 c 0,0 1.193646,2.724419 0.510076,3.807021 -5.245319,8.307333 -19.489884,13.832583 -28.05827,9.025513 -1.335009,-0.74897 -1.078402,-4.463845 -1.078402,-4.463845 z"
+                       id="path3757"
+                       sodipodi:nodetypes="ccccccaacc" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g
+               id="g4074"
+               transform="translate(3.500734,-3.5741027)">
+              <g
+                 id="g4061">
+                <g
+                   id="g3932"
+                   transform="translate(214.2179,84.570792)">
+                  <ellipse
+                     style="fill:#000000;stroke-width:0.264583"
+                     id="path3871"
+                     cx="-74.417374"
+                     cy="39.628983"
+                     rx="2.3320758"
+                     ry="9.5000792" />
+                  <path
+                     style="fill:#000000;stroke-width:0.264583"
+                     d="m -74.282873,48.531631 -5.199859,6.387735 10.071306,-0.292312 z"
+                     id="path3873" />
+                  <ellipse
+                     style="fill:#f9f9f9;stroke-width:0.264583"
+                     id="path3875"
+                     cx="-74.374039"
+                     cy="35.117039"
+                     rx="1.4440819"
+                     ry="2.0269554" />
+                </g>
+              </g>
+              <g
+                 id="g4055"
+                 transform="translate(0.19215608,-1.6572004)">
+                <g
+                   id="g4048">
+                  <text
+                     xml:space="preserve"
+                     style="font-size:3.175px;white-space:pre;inline-size:61.9605;display:inline;fill:#000000;stroke-width:0.264583"
+                     x="47.990101"
+                     y="141.442"
+                     id="text3819"
+                     transform="matrix(8.1267119,0,0,6.4532216,-375.58701,-780.02271)"><tspan
+                       x="47.990101"
+                       y="141.442"
+                       id="tspan4816">migingo f </tspan></text>
+                </g>
+                <text
+                   xml:space="preserve"
+                   transform="matrix(2.3324238,0,0,2.0103701,-1153.0843,-801.88234)"
+                   id="text4036"
+                   style="white-space:pre;shape-inside:url(#rect4038);display:inline;fill:#000000"><tspan
+                     x="555.42578"
+                     y="464.57812"
+                     id="tspan4818">sh</tspan></text>
+              </g>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:23.1015px;fill:#000000;stroke-width:1.92512"
+               x="29.771811"
+               y="249.87288"
+               id="text4160"
+               transform="scale(1.6905901,0.59150944)"><tspan
+                 sodipodi:role="line"
+                 id="tspan4158"
+                 style="stroke-width:1.92512"
+                 x="29.771811"
+                 y="249.87288">hotel</tspan></text>
+          </g>
+        </g>
+        <ellipse
+           style="fill:none;fill-opacity:1;stroke:url(#linearGradient4660);stroke-width:0.599383"
+           id="path4166"
+           cx="102.13852"
+           cy="115.66514"
+           rx="84.516357"
+           ry="73.200119" />
+      </g>
+    </g>
+  </g>
+</svg>
